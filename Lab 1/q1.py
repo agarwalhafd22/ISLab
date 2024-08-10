@@ -71,7 +71,6 @@ print("Multiplicative Decrypted Text: "+decryptedMultiplicative)
 
 
 
-
 #Affine Cipher
 
 
