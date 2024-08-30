@@ -1,0 +1,7 @@
+{
+    "key_size": 1024,
+    "key_validity_days": 365,
+    "check_interval": 86400,
+    "log_file": "key_management.log",
+    "key_store_file": "secure_key_store.json"
+}
